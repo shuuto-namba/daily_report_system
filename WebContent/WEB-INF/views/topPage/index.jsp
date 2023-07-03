@@ -4,4 +4,4 @@
     <c:param name="content">
         <h2>日報管理システムへようこそ</h2>
     </c:param>
-</c:import>d
+</c:import>
